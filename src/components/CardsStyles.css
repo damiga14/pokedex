@@ -1,0 +1,15 @@
+.cards{
+    display: inline-block;
+    width: 20px;
+    border-style: solid;
+    border-color: cornflowerblue;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-left: 20px;
+    padding-right: 50px;
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
